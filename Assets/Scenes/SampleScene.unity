@@ -156,8 +156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4e1e6622340f654fb745d5c46e0d295, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Horizontal: 0
-  velocity: 4
+  velocity: 5
   jumpForce: 13
 --- !u!61 &380561236
 BoxCollider2D:
@@ -285,7 +284,7 @@ Transform:
   m_GameObject: {fileID: 380561234}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.1, y: 1.77, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_LocalScale: {x: 0.75, y: 0.75, z: 0.75}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -343,7 +342,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 15.03215
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -367,7 +366,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 1.64, y: -4.91, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -385,7 +384,7 @@ GameObject:
   - component: {fileID: 565792023}
   - component: {fileID: 565792022}
   m_Layer: 0
-  m_Name: Square
+  m_Name: Suelo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -476,7 +475,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 565792021}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0133, y: -3.8596, z: 0}
+  m_LocalPosition: {x: -0.71, y: -12.13, z: 0}
   m_LocalScale: {x: 23.742376, y: 2.2724, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
