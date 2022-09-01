@@ -11,7 +11,10 @@ public class PlayerController : MonoBehaviour
     public float velocityForce = 1.5f;
     public float jumpForce = 5;
     private Vector3 lastCheckpointPosition;
+    private Vector3 newCheckpoint;
     bool Jump = true;
+    public int maxSaltos = 2;
+    public int saltoActual = 0;
     const int A_Quieto = 0;
     const int A_Caminar = 1;
     const int A_Correr = 2;
@@ -27,10 +30,11 @@ public class PlayerController : MonoBehaviour
     }
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Space) && Jump)
+        if(Input.GetKeyDown(KeyCode.Space) && (Jump || maxSaltos > saltoActual))
         {
             rb.AddForce(new Vector2(0, jumpForce), ForceMode2D.Impulse);
             Jump = false;
+            saltoActual++;
             ChangeAnimation(A_Saltar);
         }
         else if(Input.GetKey(KeyCode.RightArrow) && Input.GetKey(KeyCode.X))
@@ -70,6 +74,7 @@ public class PlayerController : MonoBehaviour
     void OnCollisionEnter2D(Collision2D other)
     {
         Jump = true;
+        saltoActual = 0;
         if(other.gameObject.name == "DarkHole")
         {
             if(lastCheckpointPosition != null)
