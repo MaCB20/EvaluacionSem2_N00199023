@@ -8,7 +8,9 @@ public class PlayerController : MonoBehaviour
     SpriteRenderer sr;
     Animator an;
     public float velocity = 5;
+    public float velocityForce = 1.5f;
     public float jumpForce = 5;
+    private Vector3 lastCheckpointPosition;
     bool Jump = true;
     const int A_Quieto = 0;
     const int A_Caminar = 1;
@@ -33,7 +35,7 @@ public class PlayerController : MonoBehaviour
         }
         else if(Input.GetKey(KeyCode.RightArrow) && Input.GetKey(KeyCode.X))
         {
-            rb.velocity = new Vector2(velocity * 2, rb.velocity.y);
+            rb.velocity = new Vector2(velocity * velocityForce, rb.velocity.y);
             sr.flipX = false;
             ChangeAnimation(A_Correr);
         }
@@ -45,7 +47,7 @@ public class PlayerController : MonoBehaviour
         }
         else if(Input.GetKey(KeyCode.LeftArrow) && Input.GetKey(KeyCode.X))
         {
-            rb.velocity = new Vector2(-velocity * 2, rb.velocity.y);
+            rb.velocity = new Vector2(-velocity * velocityForce, rb.velocity.y);
             sr.flipX = true;
             ChangeAnimation(A_Correr);
         }
@@ -68,6 +70,18 @@ public class PlayerController : MonoBehaviour
     void OnCollisionEnter2D(Collision2D other)
     {
         Jump = true;
+        if(other.gameObject.name == "DarkHole")
+        {
+            if(lastCheckpointPosition != null)
+            {
+                transform.position = lastCheckpointPosition;
+            }
+        }
+    }
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        Debug.Log("Save");
+        lastCheckpointPosition = transform.position;
     }
     void ChangeAnimation(int animation)
     {
