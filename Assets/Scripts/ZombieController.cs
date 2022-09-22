@@ -4,12 +4,21 @@ using UnityEngine;
 
 public class ZombieController : MonoBehaviour
 {
-    Rigidbody2D rb;
+    public float walkSpeed;
+
+    [HideInInspector]
+    public bool mustPatrol; //Debe Patrullar
+    private bool mustTurn;
+
+    public Rigidbody2D rb;
+    public Transform groundCheckPos;
+    public LayerMask groundLayer;
+    public Collider2D bodyCollider;
+
     SpriteRenderer sr;
     Animator an;
-    public float velocity;
     const int A_Caminar = 1;
-    // Start is called before the first frame update
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -17,14 +26,37 @@ public class ZombieController : MonoBehaviour
         sr = GetComponent<SpriteRenderer>();
 
         an = GetComponent<Animator>();
-    }
 
-    // Update is called once per frame
+        mustPatrol = true;
+    }
     void Update()
     {
-        rb.velocity = new Vector2(-velocity, rb.velocity.y);
-        sr.flipX = true;
-        ChangeAnimation(A_Caminar);
+        if(mustPatrol)
+        {
+            Patrol();
+        }
+    }
+    private void FixedUpdate()
+    {
+        if(mustPatrol)
+        {
+            mustTurn = !Physics2D.OverlapCircle(groundCheckPos.position, 0.1f, groundLayer);
+        }
+    }
+    void Patrol()
+    {
+        if(mustTurn || bodyCollider.IsTouchingLayers(groundLayer))
+        {
+            Flip();
+        }
+        rb.velocity = new Vector2(walkSpeed * Time.fixedDeltaTime, rb.velocity.y);
+    }
+    void Flip() //Función para dar vuelta
+    {
+        mustPatrol = false;
+        transform.localScale = new Vector2(transform.localScale.x * -1, transform.localScale.y);
+        walkSpeed *= -1;
+        mustPatrol = true;
     }
     void ChangeAnimation(int animation)
     {

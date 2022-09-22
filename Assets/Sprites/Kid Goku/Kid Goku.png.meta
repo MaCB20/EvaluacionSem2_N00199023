@@ -1,0 +1,5484 @@
+fileFormatVersion: 2
+guid: 70677fae41e66584c984a8045b45583d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1516661098705384860
+    second: Kid Goku_0
+  - first:
+      213: 4258075830742421459
+    second: Kid Goku_1
+  - first:
+      213: -9103320299807353344
+    second: Kid Goku_2
+  - first:
+      213: -3682668153129085963
+    second: Kid Goku_3
+  - first:
+      213: 625329647245611249
+    second: Kid Goku_4
+  - first:
+      213: -7582949623371415220
+    second: Kid Goku_5
+  - first:
+      213: 5524760488353027645
+    second: Kid Goku_6
+  - first:
+      213: 824930673841987084
+    second: Kid Goku_7
+  - first:
+      213: -4097823774461282511
+    second: Kid Goku_8
+  - first:
+      213: -1521086511590110685
+    second: Kid Goku_9
+  - first:
+      213: -7539330272697413368
+    second: Kid Goku_10
+  - first:
+      213: -2956109389273368004
+    second: Kid Goku_11
+  - first:
+      213: 3289841716850828843
+    second: Kid Goku_12
+  - first:
+      213: -5898741302237221147
+    second: Kid Goku_13
+  - first:
+      213: 7875192564213670178
+    second: Kid Goku_14
+  - first:
+      213: 3656546022782681331
+    second: Kid Goku_15
+  - first:
+      213: -6688974819444173975
+    second: Kid Goku_16
+  - first:
+      213: -4214479946050842495
+    second: Kid Goku_17
+  - first:
+      213: -8677795340192190080
+    second: Kid Goku_18
+  - first:
+      213: -5420964390981804392
+    second: Kid Goku_19
+  - first:
+      213: -6430587862626328415
+    second: Kid Goku_20
+  - first:
+      213: -4835775395195513893
+    second: Kid Goku_21
+  - first:
+      213: -2556635344573474887
+    second: Kid Goku_22
+  - first:
+      213: 1351408616279533899
+    second: Kid Goku_23
+  - first:
+      213: -1025065256412144367
+    second: Kid Goku_24
+  - first:
+      213: -2868901784637373608
+    second: Kid Goku_25
+  - first:
+      213: -8954658196571337449
+    second: Kid Goku_26
+  - first:
+      213: -7139227928773602635
+    second: Kid Goku_27
+  - first:
+      213: 4312454489080796428
+    second: Kid Goku_28
+  - first:
+      213: 1159255044931694333
+    second: Kid Goku_29
+  - first:
+      213: -2603780314683351956
+    second: Kid Goku_30
+  - first:
+      213: -2383785153076302644
+    second: Kid Goku_31
+  - first:
+      213: -6483022262592576777
+    second: Kid Goku_32
+  - first:
+      213: -1686128237587899369
+    second: Kid Goku_33
+  - first:
+      213: -4009076140360199404
+    second: Kid Goku_34
+  - first:
+      213: 6726389016529349990
+    second: Kid Goku_35
+  - first:
+      213: 7148047931732583088
+    second: Kid Goku_36
+  - first:
+      213: -8800164084391025839
+    second: Kid Goku_37
+  - first:
+      213: 6829866693462124557
+    second: Kid Goku_38
+  - first:
+      213: -6557699254944537580
+    second: Kid Goku_39
+  - first:
+      213: 978100257879600434
+    second: Kid Goku_40
+  - first:
+      213: 7219089317639276041
+    second: Kid Goku_41
+  - first:
+      213: -8907524088008003857
+    second: Kid Goku_42
+  - first:
+      213: -3068278895626277480
+    second: Kid Goku_43
+  - first:
+      213: -8282479559849235423
+    second: Kid Goku_44
+  - first:
+      213: -7839835223555593473
+    second: Kid Goku_45
+  - first:
+      213: -5058608213188473655
+    second: Kid Goku_46
+  - first:
+      213: 6375970521291512994
+    second: Kid Goku_47
+  - first:
+      213: 4915217700655955628
+    second: Kid Goku_48
+  - first:
+      213: -1908460170139550955
+    second: Kid Goku_49
+  - first:
+      213: 2384377955083530271
+    second: Kid Goku_50
+  - first:
+      213: -4151394971666101829
+    second: Kid Goku_51
+  - first:
+      213: -7852187164364911671
+    second: Kid Goku_52
+  - first:
+      213: -5748892631072374802
+    second: Kid Goku_53
+  - first:
+      213: 4379583632216121811
+    second: Kid Goku_54
+  - first:
+      213: -6444019174286171321
+    second: Kid Goku_55
+  - first:
+      213: -374393944377491502
+    second: Kid Goku_56
+  - first:
+      213: 1712427391219922625
+    second: Kid Goku_57
+  - first:
+      213: 165291086902733889
+    second: Kid Goku_58
+  - first:
+      213: 7624020839836633326
+    second: Kid Goku_59
+  - first:
+      213: 5462111006810222296
+    second: Kid Goku_60
+  - first:
+      213: 8876726641706119849
+    second: Kid Goku_61
+  - first:
+      213: 3446432719288132198
+    second: Kid Goku_62
+  - first:
+      213: 4511819772079727131
+    second: Kid Goku_63
+  - first:
+      213: -4011535119580187260
+    second: Kid Goku_64
+  - first:
+      213: 8442082386619169207
+    second: Kid Goku_65
+  - first:
+      213: 216499742090311325
+    second: Kid Goku_66
+  - first:
+      213: -7513053329233900395
+    second: Kid Goku_67
+  - first:
+      213: 655746001525976470
+    second: Kid Goku_68
+  - first:
+      213: 6540056869796370967
+    second: Kid Goku_69
+  - first:
+      213: 9126190245839925536
+    second: Kid Goku_70
+  - first:
+      213: 1475266438954980772
+    second: Kid Goku_71
+  - first:
+      213: 4618734632220005915
+    second: Kid Goku_72
+  - first:
+      213: 8108113241322245420
+    second: Kid Goku_73
+  - first:
+      213: 6190625646388881801
+    second: Kid Goku_74
+  - first:
+      213: 4445719206048834355
+    second: Kid Goku_75
+  - first:
+      213: 2387919495753993366
+    second: Kid Goku_76
+  - first:
+      213: 5491036395582470425
+    second: Kid Goku_77
+  - first:
+      213: -7027891982623535430
+    second: Kid Goku_78
+  - first:
+      213: 5052424181545007006
+    second: Kid Goku_79
+  - first:
+      213: 2908973712482891892
+    second: Kid Goku_80
+  - first:
+      213: 6238941693662910691
+    second: Kid Goku_81
+  - first:
+      213: 4542095293848334721
+    second: Kid Goku_82
+  - first:
+      213: -6751856747925774818
+    second: Kid Goku_83
+  - first:
+      213: -3638655042608346535
+    second: Kid Goku_84
+  - first:
+      213: 548405387119968672
+    second: Kid Goku_85
+  - first:
+      213: 1817572711553649101
+    second: Kid Goku_86
+  - first:
+      213: -4594125093526256493
+    second: Kid Goku_87
+  - first:
+      213: -938935213177701765
+    second: Kid Goku_88
+  - first:
+      213: 1261942762126423312
+    second: Kid Goku_89
+  - first:
+      213: -3494837706745284482
+    second: Kid Goku_90
+  - first:
+      213: -8161621380117277970
+    second: Kid Goku_91
+  - first:
+      213: -5271456632388921001
+    second: Kid Goku_92
+  - first:
+      213: 5557668132365233871
+    second: Kid Goku_93
+  - first:
+      213: -8716039582259849375
+    second: Kid Goku_94
+  - first:
+      213: -9111966184444760162
+    second: Kid Goku_95
+  - first:
+      213: -1755470319415331936
+    second: Kid Goku_96
+  - first:
+      213: -253065722454639029
+    second: Kid Goku_97
+  - first:
+      213: -8532237685833013261
+    second: Kid Goku_98
+  - first:
+      213: -1678285049442234154
+    second: Kid Goku_99
+  - first:
+      213: -6082499593234457046
+    second: Kid Goku_100
+  - first:
+      213: 7794028296201766157
+    second: Kid Goku_101
+  - first:
+      213: -8941418253559628445
+    second: Kid Goku_102
+  - first:
+      213: -1188113866552354477
+    second: Kid Goku_103
+  - first:
+      213: 6026210099411883462
+    second: Kid Goku_104
+  - first:
+      213: 4474870730343800947
+    second: Kid Goku_105
+  - first:
+      213: 5697311659163455654
+    second: Kid Goku_106
+  - first:
+      213: -2433624662782567442
+    second: Kid Goku_107
+  - first:
+      213: -3739999591943856516
+    second: Kid Goku_108
+  - first:
+      213: 4715532297001193500
+    second: Kid Goku_109
+  - first:
+      213: 669715692283327554
+    second: Kid Goku_110
+  - first:
+      213: -3993398990795197783
+    second: Kid Goku_111
+  - first:
+      213: -20054548408748574
+    second: Kid Goku_112
+  - first:
+      213: -3229271746477242359
+    second: Kid Goku_113
+  - first:
+      213: 2739939641512743146
+    second: Kid Goku_114
+  - first:
+      213: -3404230216877255995
+    second: Kid Goku_115
+  - first:
+      213: -3522986101070141354
+    second: Kid Goku_116
+  - first:
+      213: -3495211165227111603
+    second: Kid Goku_117
+  - first:
+      213: -3568828426471556429
+    second: Kid Goku_118
+  - first:
+      213: 2067003861347890044
+    second: Kid Goku_119
+  - first:
+      213: 2951441729641892447
+    second: Kid Goku_120
+  - first:
+      213: 9151095270389083642
+    second: Kid Goku_121
+  - first:
+      213: -3106628126431048450
+    second: Kid Goku_122
+  - first:
+      213: 3089450379543671895
+    second: Kid Goku_123
+  - first:
+      213: -3564741707948650950
+    second: Kid Goku_124
+  - first:
+      213: -2926843149778735459
+    second: Kid Goku_125
+  - first:
+      213: 1491840422436878314
+    second: Kid Goku_126
+  - first:
+      213: 1601473624535777547
+    second: Kid Goku_127
+  - first:
+      213: -6185606703515677529
+    second: Kid Goku_128
+  - first:
+      213: 7241571360308828969
+    second: Kid Goku_129
+  - first:
+      213: -3608522499709376957
+    second: Kid Goku_130
+  - first:
+      213: 6049036896889410369
+    second: Kid Goku_131
+  - first:
+      213: -4200157404175521413
+    second: Kid Goku_132
+  - first:
+      213: -6016146787293006442
+    second: Kid Goku_133
+  - first:
+      213: -3954616116094887189
+    second: Kid Goku_134
+  - first:
+      213: 200564983762910820
+    second: Kid Goku_135
+  - first:
+      213: -3944216527757874554
+    second: Kid Goku_136
+  - first:
+      213: 6250377921167469369
+    second: Kid Goku_137
+  - first:
+      213: 3900538308919034554
+    second: Kid Goku_138
+  - first:
+      213: -8085630882648044849
+    second: Kid Goku_139
+  - first:
+      213: -5818525454270609368
+    second: Kid Goku_140
+  - first:
+      213: 466975224767779874
+    second: Kid Goku_141
+  - first:
+      213: 5800267249658658915
+    second: Kid Goku_142
+  - first:
+      213: 8413743273817028795
+    second: Kid Goku_143
+  - first:
+      213: 7401941052505919986
+    second: Kid Goku_144
+  - first:
+      213: -8334109881290762012
+    second: Kid Goku_145
+  - first:
+      213: -8225015771058494035
+    second: Kid Goku_146
+  - first:
+      213: 7034039587898921741
+    second: Kid Goku_147
+  - first:
+      213: -1880913662200622862
+    second: Kid Goku_148
+  - first:
+      213: -6076500046280372941
+    second: Kid Goku_149
+  - first:
+      213: 6880444934469632729
+    second: Kid Goku_150
+  - first:
+      213: 9065675393834862857
+    second: Kid Goku_151
+  - first:
+      213: -9051255792120366972
+    second: Kid Goku_152
+  - first:
+      213: 6316031638078092352
+    second: Kid Goku_153
+  - first:
+      213: 1636674924065970159
+    second: Kid Goku_154
+  - first:
+      213: 7512103938290564783
+    second: Kid Goku_155
+  - first:
+      213: 8224220849132425005
+    second: Kid Goku_156
+  - first:
+      213: -4246502027778902333
+    second: Kid Goku_157
+  - first:
+      213: -7659775143562913781
+    second: Kid Goku_158
+  - first:
+      213: -3129080909802535619
+    second: Kid Goku_159
+  - first:
+      213: -5438323434405598474
+    second: Kid Goku_160
+  - first:
+      213: 2712277050194165132
+    second: Kid Goku_161
+  - first:
+      213: 1167128093652462996
+    second: Kid Goku_162
+  - first:
+      213: -3667831663069716286
+    second: Kid Goku_163
+  - first:
+      213: -4101954461443245221
+    second: Kid Goku_164
+  - first:
+      213: 8636336161210310840
+    second: Kid Goku_165
+  - first:
+      213: -1583944478500571350
+    second: Kid Goku_166
+  - first:
+      213: -2700001571634856089
+    second: Kid Goku_167
+  - first:
+      213: -5768175924330648163
+    second: Kid Goku_168
+  - first:
+      213: 8067702660123515664
+    second: Kid Goku_169
+  - first:
+      213: 8978251670456190286
+    second: Kid Goku_170
+  - first:
+      213: 263440752427287593
+    second: Kid Goku_171
+  - first:
+      213: 7153644417909173545
+    second: Kid Goku_172
+  - first:
+      213: 1791571465203743759
+    second: Kid Goku_173
+  - first:
+      213: 2968654234738173253
+    second: Kid Goku_174
+  - first:
+      213: 8322187730284278242
+    second: Kid Goku_175
+  - first:
+      213: -3359388262238121
+    second: Kid Goku_176
+  - first:
+      213: -6597612009028889117
+    second: Kid Goku_177
+  - first:
+      213: -9208858858565589612
+    second: Kid Goku_178
+  - first:
+      213: -914021726225575342
+    second: Kid Goku_179
+  - first:
+      213: 3463457102385283176
+    second: Kid Goku_180
+  - first:
+      213: 3241282270283353472
+    second: Kid Goku_181
+  - first:
+      213: -5137967231030563114
+    second: Kid Goku_182
+  - first:
+      213: -7866412273027950843
+    second: Kid Goku_183
+  - first:
+      213: -7473105235998696988
+    second: Kid Goku_184
+  - first:
+      213: 1528961409126352118
+    second: Kid Goku_185
+  - first:
+      213: -2785583635596915345
+    second: Kid Goku_186
+  - first:
+      213: -5503027290905126845
+    second: Kid Goku_187
+  - first:
+      213: 4241260241378397450
+    second: Kid Goku_188
+  - first:
+      213: 4703672137327173280
+    second: Kid Goku_189
+  - first:
+      213: -2792616776114818697
+    second: Kid Goku_190
+  - first:
+      213: 8819714879299223261
+    second: Kid Goku_191
+  - first:
+      213: -8731682404051278788
+    second: Kid Goku_192
+  - first:
+      213: -5400953799037338458
+    second: Kid Goku_193
+  - first:
+      213: -4493635202804095197
+    second: Kid Goku_194
+  - first:
+      213: 9065433423676797494
+    second: Kid Goku_195
+  - first:
+      213: -1701610234638898880
+    second: Kid Goku_196
+  - first:
+      213: 3418881263009105046
+    second: Kid Goku_197
+  - first:
+      213: 5182199933995962196
+    second: Kid Goku_198
+  - first:
+      213: -2337088471131069042
+    second: Kid Goku_199
+  - first:
+      213: -5979873574300321570
+    second: Kid Goku_200
+  - first:
+      213: 6208078468948653448
+    second: Kid Goku_201
+  - first:
+      213: -3574330903011847329
+    second: Kid Goku_202
+  - first:
+      213: -7052115895277723915
+    second: Kid Goku_203
+  - first:
+      213: 8949469111086445735
+    second: Kid Goku_204
+  - first:
+      213: -2503155915719573584
+    second: Kid Goku_205
+  - first:
+      213: 6838153064484750042
+    second: Kid Goku_206
+  - first:
+      213: -7013557855079511760
+    second: Kid Goku_207
+  - first:
+      213: -8435715937940608126
+    second: Kid Goku_208
+  - first:
+      213: -4310324127703338515
+    second: Kid Goku_209
+  - first:
+      213: -3839209808193183864
+    second: Kid Goku_210
+  - first:
+      213: -166887719141293082
+    second: Kid Goku_211
+  - first:
+      213: -3819587335203728744
+    second: Kid Goku_212
+  - first:
+      213: -1042304279411398141
+    second: Kid Goku_213
+  - first:
+      213: -7886618095414610561
+    second: Kid Goku_214
+  - first:
+      213: 3026308868728055000
+    second: Kid Goku_215
+  - first:
+      213: -6546241958065115979
+    second: Kid Goku_216
+  - first:
+      213: -1877382165146526339
+    second: Kid Goku_217
+  - first:
+      213: 3187980805456300780
+    second: Kid Goku_218
+  - first:
+      213: -5611930287484825608
+    second: Kid Goku_219
+  - first:
+      213: -1355904126815672631
+    second: Kid Goku_220
+  - first:
+      213: -4683585555876185365
+    second: Kid Goku_221
+  - first:
+      213: 5661358838298602777
+    second: Kid Goku_222
+  - first:
+      213: -2293085401630161093
+    second: Kid Goku_223
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kid Goku_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 195
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a030f24ccb3fae0800000000000000
+      internalID: -1516661098705384860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 762
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df04166869b71b30800000000000000
+      internalID: 4258075830742421459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 757
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00651653b628aa180800000000000000
+      internalID: -9103320299807353344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 653
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3d81b83d884ecc0800000000000000
+      internalID: -3682668153129085963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 653
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f05893400e9da800800000000000000
+      internalID: 625329647245611249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 653
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41c3456e73f3c690800000000000000
+      internalID: -7582949623371415220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 653
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3655698464ebac40800000000000000
+      internalID: 5524760488353027645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 653
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0edca2c31eb27b00800000000000000
+      internalID: 824930673841987084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 677
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137b5130dfa9127c0800000000000000
+      internalID: -4097823774461282511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 677
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a880470e304eae0800000000000000
+      internalID: -1521086511590110685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 677
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8019583ef0bee5790800000000000000
+      internalID: -7539330272697413368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 677
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3af92f2c2ac9f6d0800000000000000
+      internalID: -2956109389273368004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 677
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26a7247c9dd7ad20800000000000000
+      internalID: 3289841716850828843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_13
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 678
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eea93ad906732ea0800000000000000
+      internalID: -5898741302237221147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_14
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 678
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221e0cf99ed4a4d60800000000000000
+      internalID: 7875192564213670178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 605
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f044d80c39aeb230800000000000000
+      internalID: 3656546022782681331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 605
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9635f7767dcfb23a0800000000000000
+      internalID: -6688974819444173975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 606
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180d1ae71d82385c0800000000000000
+      internalID: -4214479946050842495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 605
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081fd427d17429780800000000000000
+      internalID: -8677795340192190080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 606
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89edc7f9b9dd4c4b0800000000000000
+      internalID: -5420964390981804392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_20
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 606
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0283fd866f1c6a0800000000000000
+      internalID: -6430587862626328415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_21
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 607
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd31ccb26efd3ecb0800000000000000
+      internalID: -4835775395195513893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 606
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b75d7223b1058cd0800000000000000
+      internalID: -2556635344573474887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 607
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b496eb7f9fa21c210800000000000000
+      internalID: 1351408616279533899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 607
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d95ff849c36c1f0800000000000000
+      internalID: -1025065256412144367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_25
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 607
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8538437e60d9f28d0800000000000000
+      internalID: -2868901784637373608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_26
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 606
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d435460d9aab380800000000000000
+      internalID: -8954658196571337449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_27
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 606
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2d6e6260e5cec90800000000000000
+      internalID: -7139227928773602635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_28
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 606
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0513bb628ae8db30800000000000000
+      internalID: 4312454489080796428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_29
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 606
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeab354250861010800000000000000
+      internalID: 1159255044931694333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_30
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 606
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cd42669938ddbd0800000000000000
+      internalID: -2603780314683351956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_31
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 606
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc690a78081beed0800000000000000
+      internalID: -2383785153076302644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 560
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f26837c99da706a0800000000000000
+      internalID: -6483022262592576777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_33
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 562
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c51d82d4ba998e0800000000000000
+      internalID: -1686128237587899369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_34
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 561
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4131658cd76ec58c0800000000000000
+      internalID: -4009076140360199404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 563
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d225f2c2fe85d50800000000000000
+      internalID: 6726389016529349990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 562
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2e260d8b7f23360800000000000000
+      internalID: 7148047931732583088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 562
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153e8b8f3698fd580800000000000000
+      internalID: -8800164084391025839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 562
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08e41f429f88ce50800000000000000
+      internalID: 6829866693462124557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_39
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 561
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414ef25954f5ef4a0800000000000000
+      internalID: -6557699254944537580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_40
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 564
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23da1a99009e29d00800000000000000
+      internalID: 978100257879600434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_41
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 564
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906c4bb6c7b5f2460800000000000000
+      internalID: 7219089317639276041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_42
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 564
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee2c0a390e126480800000000000000
+      internalID: -8907524088008003857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_43
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 564
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d2e52d9984b65d0800000000000000
+      internalID: -3068278895626277480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_44
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 564
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ca0c709b8be0d80800000000000000
+      internalID: -8282479559849235423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_45
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 564
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaaf52c66f433390800000000000000
+      internalID: -7839835223555593473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_46
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 561
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc070bb1a63cc9b0800000000000000
+      internalID: -5058608213188473655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 515
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac51f3686ffb7850800000000000000
+      internalID: 6375970521291512994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 519
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae7f41f47c563440800000000000000
+      internalID: 4915217700655955628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 517
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bb9d23699c385e0800000000000000
+      internalID: -1908460170139550955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_50
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 517
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10b60ffd13071120800000000000000
+      internalID: 2384377955083530271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 516
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9cf7fa4484366c0800000000000000
+      internalID: -4151394971666101829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_52
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 519
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbc52e606d670390800000000000000
+      internalID: -7852187164364911671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_53
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 516
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeff1196c94d730b0800000000000000
+      internalID: -5748892631072374802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 515
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d16b560c1867cc30800000000000000
+      internalID: 4379583632216121811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 519
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743eddee3be3296a0800000000000000
+      internalID: -6444019174286171321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_56
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 519
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df7253f0b2edcaf0800000000000000
+      internalID: -374393944377491502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_57
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 518
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6ff45b3a3c3c710800000000000000
+      internalID: 1712427391219922625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 517
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c20672e5b3b4200800000000000000
+      internalID: 165291086902733889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_59
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 517
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee843ae5f86fdc960800000000000000
+      internalID: 7624020839836633326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_60
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 517
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deacac65015dcb40800000000000000
+      internalID: 5462111006810222296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_61
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 517
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2b32789d7703b70800000000000000
+      internalID: 8876726641706119849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_62
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 517
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662e3775c4034df20800000000000000
+      internalID: 3446432719288132198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_63
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 469
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1265659d243d9e30800000000000000
+      internalID: 4511819772079727131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_64
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 469
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4853b61101a2458c0800000000000000
+      internalID: -4011535119580187260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_65
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 475
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9740bd33d482570800000000000000
+      internalID: 8442082386619169207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_66
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 466
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96b14d4e59210300800000000000000
+      internalID: 216499742090311325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_67
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 466
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c827c8dc54cb790800000000000000
+      internalID: -7513053329233900395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_68
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 471
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69da6db938da91900800000000000000
+      internalID: 655746001525976470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_69
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 471
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ad0178213f2ca50800000000000000
+      internalID: 6540056869796370967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_70
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 464
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0217ceb0dadb6ae70800000000000000
+      internalID: 9126190245839925536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_71
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 464
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a597fa8203397410800000000000000
+      internalID: 1475266438954980772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_72
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 422
+        width: 30
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1694494daa091040800000000000000
+      internalID: 4618734632220005915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_73
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 473
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d47abc80ec58070800000000000000
+      internalID: 8108113241322245420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_74
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 473
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989ae6ed93589e550800000000000000
+      internalID: 6190625646388881801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_75
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 477
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3332caf301e52bd30800000000000000
+      internalID: 4445719206048834355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_76
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 477
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c85a03128932120800000000000000
+      internalID: 2387919495753993366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_77
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 488
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9193f6f4284143c40800000000000000
+      internalID: 5491036395582470425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_78
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 477
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe88e72a79e77e90800000000000000
+      internalID: -7027891982623535430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_79
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 477
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9775933601dd1640800000000000000
+      internalID: 5052424181545007006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_80
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 470
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478fd79dd20ce5820800000000000000
+      internalID: 2908973712482891892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_81
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 469
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8d6214a6c259650800000000000000
+      internalID: 6238941693662910691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_82
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 476
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181bdcdca93c80f30800000000000000
+      internalID: 4542095293848334721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_83
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 475
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e5f858f069c42a0800000000000000
+      internalID: -6751856747925774818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_84
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 427
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a45256486e08dc0800000000000000
+      internalID: -3638655042608346535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_85
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 427
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a142344bc35c9700800000000000000
+      internalID: 548405387119968672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_86
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 427
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9499150c0593910800000000000000
+      internalID: 1817572711553649101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_87
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 425
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394c8a271936e30c0800000000000000
+      internalID: -4594125093526256493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_88
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 423
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aff67f56b38f2f0800000000000000
+      internalID: -938935213177701765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_89
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 427
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015bb6f8142538110800000000000000
+      internalID: 1261942762126423312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_90
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 423
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e787ec54f97df7fc0800000000000000
+      internalID: -3494837706745284482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_91
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 423
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee250eec8981cbe80800000000000000
+      internalID: -8161621380117277970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 425
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759d4994f1608d6b0800000000000000
+      internalID: -5271456632388921001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_93
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 425
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce632978bdc02d40800000000000000
+      internalID: 5557668132365233871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_94
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 424
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1675823fd286a0780800000000000000
+      internalID: -8716039582259849375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_95
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 424
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f6cc2580bcb8180800000000000000
+      internalID: -9111966184444760162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_96
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 428
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3f18d9b0153a7e0800000000000000
+      internalID: -1755470319415331936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_97
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 428
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e7344f01eec7cf0800000000000000
+      internalID: -253065722454639029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_98
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 428
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7e8bcc707679980800000000000000
+      internalID: -8532237685833013261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_99
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 431
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d09524b3a885b8e0800000000000000
+      internalID: -1678285049442234154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_100
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 430
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e5dcea8de969ba0800000000000000
+      internalID: -6082499593234457046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_101
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 431
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05037cd073f92c60800000000000000
+      internalID: 7794028296201766157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_102
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 379
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d7268d873b9e380800000000000000
+      internalID: -8941418253559628445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_103
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 379
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3595e67bbb8f28fe0800000000000000
+      internalID: -1188113866552354477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_104
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 379
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5115d382661a350800000000000000
+      internalID: 6026210099411883462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_105
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 379
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3706fe9683fe91e30800000000000000
+      internalID: 4474870730343800947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_106
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 379
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a01123b4cae01f40800000000000000
+      internalID: 5697311659163455654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_107
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 379
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb173a53470a3ed0800000000000000
+      internalID: -2433624662782567442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_108
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 379
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e941ebf2ad81cc0800000000000000
+      internalID: -3739999591943856516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_109
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 379
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1053a1e3afe07140800000000000000
+      internalID: 4715532297001193500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_110
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 379
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2447d03bfde4b4900800000000000000
+      internalID: 669715692283327554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_111
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 379
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2bf3b96c89498c0800000000000000
+      internalID: -3993398990795197783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_112
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 379
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e537f59e70c8bff0800000000000000
+      internalID: -20054548408748574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_113
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 379
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908c40cb4725f23d0800000000000000
+      internalID: -3229271746477242359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_114
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 380
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0d06e4698360620800000000000000
+      internalID: 2739939641512743146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_115
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 380
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2516577aeb1c0d0800000000000000
+      internalID: -3404230216877255995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_116
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 380
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65863118ec6db1fc0800000000000000
+      internalID: -3522986101070141354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_117
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 380
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ba8a1b6f38e7fc0800000000000000
+      internalID: -3495211165227111603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_118
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 337
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bab8df5479f87ec0800000000000000
+      internalID: -3568828426471556429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_119
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 337
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7370097f097fac10800000000000000
+      internalID: 2067003861347890044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_120
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 337
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ac19e9d90a5f820800000000000000
+      internalID: 2951441729641892447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_121
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 337
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd6c41f9a83ffe70800000000000000
+      internalID: 9151095270389083642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_122
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 337
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc07dabd2a03e4d0800000000000000
+      internalID: -3106628126431048450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_123
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 333
+        width: 152
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75475e760ceefda20800000000000000
+      internalID: 3089450379543671895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_124
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 334
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e83bdad4e778ec0800000000000000
+      internalID: -3564741707948650950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_125
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 334
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e272099a3c167d0800000000000000
+      internalID: -2926843149778735459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_126
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 334
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae73be8c5f414b410800000000000000
+      internalID: 1491840422436878314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_127
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 329
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01cc9bc6c3993610800000000000000
+      internalID: 1601473624535777547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_128
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 331
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac4ca4d97f482aa0800000000000000
+      internalID: -6185606703515677529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_129
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 334
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b99d2e8ca3f7460800000000000000
+      internalID: 7241571360308828969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_130
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 334
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34661d0c7e3fbedc0800000000000000
+      internalID: -3608522499709376957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_131
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 334
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1431350320f72f350800000000000000
+      internalID: 6049036896889410369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_132
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 287
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b792463281b06b5c0800000000000000
+      internalID: -4200157404175521413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_133
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 287
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695fac23f5a528ca0800000000000000
+      internalID: -6016146787293006442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_134
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 287
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea112948916e19c0800000000000000
+      internalID: -3954616116094887189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_135
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 288
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ef1934acc88c200800000000000000
+      internalID: 200564983762910820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_136
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 288
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a64c127f35349c0800000000000000
+      internalID: -3944216527757874554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_137
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 287
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ba1277a9dcdb650800000000000000
+      internalID: 6250377921167469369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_138
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 289
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab20cef0dee712630800000000000000
+      internalID: 3900538308919034554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_139
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 289
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcac5de3d811acf80800000000000000
+      internalID: -8085630882648044849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_140
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 289
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828c1ad5de1704fa0800000000000000
+      internalID: -5818525454270609368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_141
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 289
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22411372e770b7600800000000000000
+      internalID: 466975224767779874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_142
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 288
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3608c3a1550be7050800000000000000
+      internalID: 5800267249658658915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_143
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 288
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8323bfdee93c470800000000000000
+      internalID: 8413743273817028795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_144
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 288
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f11ffa8b2af8b660800000000000000
+      internalID: 7401941052505919986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_145
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 289
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8579e083b475c80800000000000000
+      internalID: -8334109881290762012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_146
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 291
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5a216fbbfdadd80800000000000000
+      internalID: -8225015771058494035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_147
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 290
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0310ccbcbded9160800000000000000
+      internalID: 7034039587898921741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_148
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 285
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f05a5f5df6a5e5e0800000000000000
+      internalID: -1880913662200622862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_149
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 270
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d40df076febaba0800000000000000
+      internalID: -6076500046280372941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_150
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 276
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2c2b7b6304c7f50800000000000000
+      internalID: 6880444934469632729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_151
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 244
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909c68a1dbfbfcd70800000000000000
+      internalID: 9065675393834862857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_152
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 246
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488f77b00da736280800000000000000
+      internalID: -9051255792120366972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_153
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 245
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044f5c1af4d07a750800000000000000
+      internalID: 6316031638078092352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_154
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 239
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7ddb50c23a6b610800000000000000
+      internalID: 1636674924065970159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_155
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 250
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae3f952bba504860800000000000000
+      internalID: 7512103938290564783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_156
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 248
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f46ead94d422270800000000000000
+      internalID: 8224220849132425005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_157
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 248
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6334897e46115c0800000000000000
+      internalID: -4246502027778902333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_158
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 248
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08d094171303b590800000000000000
+      internalID: -7659775143562913781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_159
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 248
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3583c9bd754394d0800000000000000
+      internalID: -3129080909802535619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_160
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 245
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa629e56a13784b0800000000000000
+      internalID: -5438323434405598474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_161
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 248
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d744d5b91f3a520800000000000000
+      internalID: 2712277050194165132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_162
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 247
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49da88541d8723010800000000000000
+      internalID: 1167128093652462996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_163
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 247
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0acc2198e391dc0800000000000000
+      internalID: -3667831663069716286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_164
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 245
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bb8d0862ee217c0800000000000000
+      internalID: -4101954461443245221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_165
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 246
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b02dc93bfd6ad770800000000000000
+      internalID: 8636336161210310840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_166
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 242
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27380f83e2b40ae0800000000000000
+      internalID: -1583944478500571350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_167
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 246
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f35b530eaa78ad0800000000000000
+      internalID: -2700001571634856089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_168
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 245
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9daf44de8253ffa0800000000000000
+      internalID: -5768175924330648163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_169
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 247
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bd22a23dc36ff60800000000000000
+      internalID: 8067702660123515664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_170
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 198
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4549915358299c70800000000000000
+      internalID: 8978251670456190286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_171
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 198
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9244ac3f7fde7a300800000000000000
+      internalID: 263440752427287593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_172
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 198
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92daeea42b9d64360800000000000000
+      internalID: 7153644417909173545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_173
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 198
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cf13561c0fcd810800000000000000
+      internalID: 1791571465203743759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_174
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 198
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54527824c47c23920800000000000000
+      internalID: 2968654234738173253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_175
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 198
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e175b9d5a95e7370800000000000000
+      internalID: 8322187730284278242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_176
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 180
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75877f777a014fff0800000000000000
+      internalID: -3359388262238121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_177
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 198
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e55bfb55d29074a0800000000000000
+      internalID: -6597612009028889117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_178
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 190
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4952d74a8af833080800000000000000
+      internalID: -9208858858565589612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_179
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 189
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252d55b251eb053f0800000000000000
+      internalID: -914021726225575342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_180
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 190
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8608a7a62eba01030800000000000000
+      internalID: 3463457102385283176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_181
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 194
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dc2014d095bfc20800000000000000
+      internalID: 3241282270283353472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_182
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 197
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de63d6860642b8b0800000000000000
+      internalID: -5137967231030563114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_183
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 195
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507556937b3e4d290800000000000000
+      internalID: -7866412273027950843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_184
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 193
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e99f2fc1623a4890800000000000000
+      internalID: -7473105235998696988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_185
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 191
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4c1420d46f73510800000000000000
+      internalID: 1528961409126352118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_186
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 190
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dca1c217e9759d0800000000000000
+      internalID: -2785583635596915345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_187
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 190
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348d150d5d151a3b0800000000000000
+      internalID: -5503027290905126845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_188
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 189
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dc857e7bbfbda30800000000000000
+      internalID: 4241260241378397450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_189
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 154
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aed94543ecc64140800000000000000
+      internalID: 4703672137327173280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_190
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 154
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77131e986d1ae39d0800000000000000
+      internalID: -2792616776114818697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_191
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 154
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde7bd034fbe56a70800000000000000
+      internalID: 8819714879299223261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_192
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 180
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34aefead15d2d680800000000000000
+      internalID: -8731682404051278788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_193
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 171
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac3510a225fb05b0800000000000000
+      internalID: -5400953799037338458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_194
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327eba2679663a1c0800000000000000
+      internalID: -4493635202804095197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_195
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 171
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63275390ba3eecd70800000000000000
+      internalID: 9065433423676797494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_196
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049ed22d18aa268e0800000000000000
+      internalID: -1701610234638898880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_197
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69485ea056e427f20800000000000000
+      internalID: 3418881263009105046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_198
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 142
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fc1ec226fdae740800000000000000
+      internalID: 5182199933995962196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_199
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 149
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85629dfa6ef09fd0800000000000000
+      internalID: -2337088471131069042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_200
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 136
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8751abaa8330da0800000000000000
+      internalID: -5979873574300321570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_201
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 140
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8857f67c976872650800000000000000
+      internalID: 6208078468948653448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_202
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 138
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5317483bfc656ec0800000000000000
+      internalID: -3574330903011847329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_203
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 139
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fed51bf4f9d12e90800000000000000
+      internalID: -7052115895277723915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_204
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a473ae7db6e23c70800000000000000
+      internalID: 8949469111086445735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_205
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 106
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bffd1af4f0034dd0800000000000000
+      internalID: -2503155915719573584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_206
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 106
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2cc586bfff5ee50800000000000000
+      internalID: 6838153064484750042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_207
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 106
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039c55c4a46daae90800000000000000
+      internalID: -7013557855079511760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_208
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 74
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28be2fc7c015eea80800000000000000
+      internalID: -8435715937940608126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_209
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 74
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1727dfa07ae24c0800000000000000
+      internalID: -4310324127703338515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_210
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 73
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f137c350368bac0800000000000000
+      internalID: -3839209808193183864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_211
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 71
+        width: 157
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3453fe0881fadf0800000000000000
+      internalID: -166887719141293082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_212
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892d9904e891efac0800000000000000
+      internalID: -3819587335203728744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_213
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 66
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a60ddb7cdf881f0800000000000000
+      internalID: -1042304279411398141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_214
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75f4a790aa1d8290800000000000000
+      internalID: -7886618095414610561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_215
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 61
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4662dc1eb9ff920800000000000000
+      internalID: 3026308868728055000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_216
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2
+        width: 153
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc65c36f931725a0800000000000000
+      internalID: -6546241958065115979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d99ca1ed232f5e0800000000000000
+      internalID: -1877382165146526339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_218
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 25
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea8cf3e6abfd3c20800000000000000
+      internalID: 3187980805456300780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_219
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 22
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff0636032b6e12b0800000000000000
+      internalID: -5611930287484825608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_220
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 23
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c66aab616cde2de0800000000000000
+      internalID: -1355904126815672631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_221
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 12
+        width: 130
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea79da60cf800fb0800000000000000
+      internalID: -4683585555876185365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_222
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 12
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d6ec64edf219e40800000000000000
+      internalID: 5661358838298602777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kid Goku_223
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 11
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37433cf9f25d20e0800000000000000
+      internalID: -2293085401630161093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -5,25 +5,22 @@ using UnityEngine.UI;
 
 public class BulletController : MonoBehaviour
 {
-    public float velocity = 20;
-    private GameManagerController gameManager;
-    float realVelocity;
     Rigidbody2D rb;
     SpriteRenderer sr;
+    public float velocity = 20;
+    float realVelocity;
+    private GameManagerController gameManager;
+
+    public float dieTime, damage;
+    public GameObject diePEffect;
     public void SetRightDirection()
     {
         realVelocity = velocity;
-
     }
     public void SetLeftDirection()
     {
         realVelocity = -velocity;
-        
     }
-    // public void SetScoreText(Text scoreText)
-    // {
-    //     this.scoreText = scoreText;
-    // }
     void Start()
     {
         gameManager = FindObjectOfType<GameManagerController>();
@@ -39,14 +36,28 @@ public class BulletController : MonoBehaviour
     }
     void OnCollisionEnter2D(Collision2D other){
 
+        GameObject collisionGameObject = other.gameObject;
+
         Destroy(this.gameObject);
+        //gameManager.restarBalas();
         if(other.gameObject.tag == "Enemy")
         {
-            Destroy(other.gameObject);
-            //gameManager.GanarPuntos(10);
-            gameManager.restarBalas(1);
-            //scoreText.text = "Puntaje Modificado";
-            
+            if(collisionGameObject.GetComponent<HealthScript>() != null)
+            {
+                collisionGameObject.GetComponent<HealthScript>().TakeDamage(damage);
+            }
+            //Destroy(other.gameObject);
+            Die();
+           // gameManager.GanarPuntos(10);
+            gameManager.SaveGame();
         }
+    }
+    void Die()
+    {
+        if(diePEffect != null)
+        {
+            Instantiate(diePEffect, transform.position, Quaternion.identity);
+        }
+        Destroy(gameObject);
     }
 }
